@@ -1,0 +1,14 @@
+# Fichiers sensibles
+.env
+
+# Fichiers générés par l'environnement
+.idea/
+vendor/
+node_modules/
+var/
+public/uploads/
+bin/
+
+# Conteneurs Docker et bases de données
+docker-compose.yaml
+mysql_data/
