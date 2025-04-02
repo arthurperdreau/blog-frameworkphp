@@ -2,7 +2,7 @@
     <h1 class="text-center">Documentation du Projet blog-frameworkphp</h1>
     <div class="mt-4">
         <h2>Introduction</h2>
-        <p>Ce projet est un blog développé en PHP sans framework majeur. Il est composé d'une gestion des routes, d'entités et d'un Object-Relational Mapping(ORM).</p>
+        <p>Ce projet est un blog développé en PHP avec un framework basique. Il est composé d'une gestion des routes, d'entités et d'un Object-Relational Mapping(ORM).</p>
     </div>
     <div class="mt-4">
         <h2>Installation</h2>
