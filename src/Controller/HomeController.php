@@ -9,7 +9,7 @@ class HomeController extends Controller
 {
 
 
-    #[Route('/home/documentation', routeName: 'home')]
+    #[Route('/documentation', routeName: 'home')]
     public function index()
     {
        return $this->render('home/documentation', []);
